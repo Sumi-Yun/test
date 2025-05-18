@@ -4,3 +4,5 @@ html에서 들여쓰기 하는 법: text-indent: 12pt;
         display: flex;
         justify-content: center; /* 가로 중앙 */
         align-items: center; 
+그것도 안된다면: 
+ line-height: 45px;
